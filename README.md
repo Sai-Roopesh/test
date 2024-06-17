@@ -1,1 +1,2 @@
-# test
+```bash
+pip install pdfminer.six
